@@ -26,6 +26,6 @@
   <img src="https://raw.githubusercontent.com/tienntps09110/PHP-Project-register-passport-Fpoly-/master/public/images/team.PNG">
 </p>
 
-<p align="center" style="color:green;">
+<p align="center" class="text-purple">
   Cảm ơn
 </p>
