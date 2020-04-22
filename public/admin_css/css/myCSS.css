@@ -1,0 +1,7 @@
+.table-account tr th{
+    text-align: right;
+    padding-right: 0vw;
+}
+.table-nowarp *{
+    white-space: nowrap;
+}

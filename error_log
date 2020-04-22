@@ -1,0 +1,25 @@
+[13-Dec-2019 06:02:28 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:28 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:55 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:02:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 13:03:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[13-Dec-2019 13:03:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[13-Dec-2019 13:03:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[13-Dec-2019 06:03:55 UTC] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/huuloiin/profile.huuloi.info/index.php on line 52
+[13-Dec-2019 06:04:01 UTC] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/huuloiin/profile.huuloi.info/artisan on line 33
+[13-Dec-2019 13:04:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[13-Dec-2019 13:04:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[13-Dec-2019 13:05:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[13-Dec-2019 06:05:37 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:05:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Dec-2019 06:05:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/huuloiin/profile.huuloi.info/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
