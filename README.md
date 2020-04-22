@@ -27,5 +27,5 @@
 </p>
 
 <p align="center" color="green">
-  Cảm ơn
+  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Cảm ơn`
 </p>
