@@ -26,6 +26,6 @@
   <img src="https://raw.githubusercontent.com/tienntps09110/PHP-Project-register-passport-Fpoly-/master/public/images/team.PNG">
 </p>
 
-<p align="center" color="green">
-  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Cảm ơn`
+<p align="center" style="color:green;">
+  Cảm ơn
 </p>
