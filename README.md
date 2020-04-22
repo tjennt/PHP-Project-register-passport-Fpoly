@@ -26,12 +26,6 @@
   <img src="https://raw.githubusercontent.com/tienntps09110/PHP-Project-register-passport-Fpoly-/master/public/images/team.PNG">
 </p>
 
-<p align="center" class="text-purple">
+<h3 align="center" class="text-purple">
   Cảm ơn
-</p>
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
+</h3>
