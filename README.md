@@ -14,12 +14,18 @@
 	  - Theo dõi tiến trình thực hiện hồ sơ rõ ràng cụ thể.
 ```
 <hr>
+
 ## Bìa báo cáo:
 <p align="center">
   <img src="https://raw.githubusercontent.com/tienntps09110/PHP-Project-register-passport-Fpoly-/master/public/images/info.PNG">
 </p>
 <hr>
+
 ## Thành viên trong team:
 <p align="center">
   <img src="https://raw.githubusercontent.com/tienntps09110/PHP-Project-register-passport-Fpoly-/master/public/images/team.PNG">
+</p>
+
+<p align="center" color="green">
+  Cảm ơn
 </p>
