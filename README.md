@@ -1,8 +1,7 @@
 # WEBSITE CẤP HỘ CHIẾU
 
-<details>
-  <summary>Giới thiệu</summary>
-  Website cấp Hộ chiếu lần đầu cho Công dân Việt Nam.
+##Giới thiệu
+ ```
   1. Nhập thông tin cá nhân để đăng ký cấp mới.
   2. Kiểm tra tình trạng Hồ sơ.
   3. Chỉnh sửa thông tin đã đăng ký.
@@ -13,8 +12,7 @@
 	  - Kiểm duyệt thông tin đăng ký
 	  - Lưu trữ thông tin đã được kiểm duyệt và xác thực
 	  - Theo dõi tiến trình thực hiện hồ sơ rõ ràng cụ thể.
-</details>
-
+```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tienntps09110/PHP-Project-register-passport-Fpoly-/master/public/images/info.PNG">
