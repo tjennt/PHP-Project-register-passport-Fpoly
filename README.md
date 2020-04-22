@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tienntps09110/PHP-Project-register-passport-Fpoly-/master/public/images/team.PNG">
 </p>
-
+<hr>
 <h3 align="center" class="text-purple">
   Cảm ơn
 </h3>
